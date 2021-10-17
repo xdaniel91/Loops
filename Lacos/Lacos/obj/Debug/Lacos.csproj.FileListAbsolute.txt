@@ -1,0 +1,7 @@
+C:\Users\xdani\source\repos\Lacos\Lacos\bin\Debug\Lacos.exe.config
+C:\Users\xdani\source\repos\Lacos\Lacos\bin\Debug\Lacos.exe
+C:\Users\xdani\source\repos\Lacos\Lacos\bin\Debug\Lacos.pdb
+C:\Users\xdani\source\repos\Lacos\Lacos\obj\Debug\Lacos.csproj.AssemblyReference.cache
+C:\Users\xdani\source\repos\Lacos\Lacos\obj\Debug\Lacos.csproj.CoreCompileInputs.cache
+C:\Users\xdani\source\repos\Lacos\Lacos\obj\Debug\Lacos.exe
+C:\Users\xdani\source\repos\Lacos\Lacos\obj\Debug\Lacos.pdb

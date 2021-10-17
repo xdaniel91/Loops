@@ -1,0 +1,7 @@
+C:\Users\xdani\source\repos\Lacos\For\bin\Debug\For.exe.config
+C:\Users\xdani\source\repos\Lacos\For\bin\Debug\For.exe
+C:\Users\xdani\source\repos\Lacos\For\bin\Debug\For.pdb
+C:\Users\xdani\source\repos\Lacos\For\obj\Debug\For.csproj.AssemblyReference.cache
+C:\Users\xdani\source\repos\Lacos\For\obj\Debug\For.csproj.CoreCompileInputs.cache
+C:\Users\xdani\source\repos\Lacos\For\obj\Debug\For.exe
+C:\Users\xdani\source\repos\Lacos\For\obj\Debug\For.pdb
